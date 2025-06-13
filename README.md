@@ -1,6 +1,6 @@
 # Hi, I'm Duje Medak 👋
 
-🎓 Currently studying at the Polytechnic of Rijeka, I’m passionate about software development and game programming.
+🎓 Currently studying at the Polytechnic of Rijeka, I’m passionate about software and game development.
 
 👀 I’m interested in software development, game programming, and automotive technology.  
 🌱 I’m currently learning advanced game mechanics with Godot 4 and diving deeper into object-oriented programming.  
