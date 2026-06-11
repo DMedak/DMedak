@@ -1,19 +1,26 @@
-# Hi, I'm Duje Medak 👋
+# Duje Medak
 
-🎓 Currently studying at the Polytechnic of Rijeka.
+Graduate informatics student from Croatia, focused on software development, web development, and game development.
 
-👀 I’m interested in software development, game development and automotive technology.  
+This GitHub profile contains my coursework, personal projects, and learning progress through practical software projects.
 
-🌱 I’m currently learning advanced game mechanics with Godot 4 and diving deeper into object-oriented programming with C++.  
+## Main Projects
 
-🚀 Feel free to explore my repositories and reach out if you want to collaborate or chat about programming or games!
+- **FitnessTracker** – mobile fitness tracking app with backend
+- **Scarborrn** – 2D top-down survival game built in Godot 4 as a Bachelor's thesis project
+- **NADA Check-in** – anonymous digital self-assessment and support guidance tool
+- **WebDev Project** – game convention website with ticket purchasing and event schedule made with two colleagues
 
----
+## Tech Stack
 
-📫 How to reach me: [dmedak15@gmail.com](mailto:dmedak15@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dmedak)
+- **Web:** HTML, CSS, JavaScript
+- **Mobile:** React Native, Expo
+- **Backend:** Node.js
+- **Programming:** Java, C++, Python
+- **Game Development:** Godot
+- **Tools:** Git, GitHub
 
+## Contact
 
-<!---
-DMedak/DMedak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Email: duje.mdk@gmail.com
+- LinkedIn: [Duje Medak](https://www.linkedin.com/in/dmedak/)
